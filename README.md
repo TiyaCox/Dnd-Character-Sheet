@@ -1,1 +1,5 @@
-# Dnd-Character-Sheet
+The main idea for this project is to create my own web version of the dnd character sheet. It is also a way to make it easier to look through all of the information you retrieve throughout the game. 
+This projects intrests me because I love dnd but it can be quite troublesom with the character sheets they have. The information gathers quickly and you can end up forgetting somethings that your character can do. 
+The ambitious version of this idea is to create a version for the DM, so they can keep track of their world building and their chracters they have. Maybe have a way so you can create a group through the website so you can see the names of the characters in your campaign. Having a feature to digitally roll dice would be an interesting idea. 
+The target version is a 'homepage' where you can see your current character (shows a little information on each character) when clicked on character shows the character information for when you need it, having different tabs at the top for your characters backstory, spells, inventory. 
+The smallest working version is basic information for your character, a page that has a very similar layout to the actual dnd character sheet. 
